@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-05-16T02:12:54Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Board"
+        },
+        "Owner": "Nick Hulsey <njhulsey@gmail.com>",
+        "Size": {
+            "X": 57.305006,
+            "Y": 57.305006
+        }
+    }
+}
